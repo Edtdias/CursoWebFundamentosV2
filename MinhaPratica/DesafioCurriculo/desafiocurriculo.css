@@ -1,0 +1,33 @@
+body {
+	font-family: sans-serif;
+	width:80%;
+	margin:auto;
+}
+
+h1 {
+	color:#0505a3;
+	background-color:rgba(178, 178, 248, 0.751);
+	text-align: center;
+	margin-top: 30px;
+}
+
+#qualificacao {
+	text-align: center;
+}
+
+h2 {
+	color:#0505a3;
+	background-color:#ccc;
+	padding-left: 10px;
+	border-bottom: 3px solid #0505a3;
+	margin-top: 30px;
+}
+
+p {
+	text-align: left;
+	
+}
+
+strong {
+	color:#0505a3
+}
