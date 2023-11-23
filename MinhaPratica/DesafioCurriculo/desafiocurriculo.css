@@ -8,13 +8,15 @@ h1 {
 	color:#0505a3;
 	background-color:rgba(178, 178, 248, 0.751);
 	text-align: center;
+	margin:30px;
 	margin-top: 30;
-	margin-bottom: 0;
+	margin-bottom: 0; 
 	padding: 3px;
 }
 
 #qualificacao {
 	text-align: center;
+	margin-top:0;
 }
 
 h2 {
