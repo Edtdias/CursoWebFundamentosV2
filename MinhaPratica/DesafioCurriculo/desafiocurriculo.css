@@ -8,7 +8,9 @@ h1 {
 	color:#0505a3;
 	background-color:rgba(178, 178, 248, 0.751);
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 30;
+	margin-bottom: 0;
+	padding: 3px;
 }
 
 #qualificacao {
@@ -19,7 +21,7 @@ h2 {
 	color:#0505a3;
 	background-color:#ccc;
 	padding-left: 10px;
-	border-bottom: 3px solid #0505a3;
+	border-bottom: 3px solid;
 	margin-top: 30px;
 }
 
@@ -28,6 +30,10 @@ p {
 	
 }
 
-strong {
-	color:#0505a3
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
